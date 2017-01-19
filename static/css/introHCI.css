@@ -16,6 +16,16 @@ body {
      padding: 20px;
 }
 
+/* let all the project has left margin */
+.project {
+        margin-left: 10px;
+}
+
+/* put paragraph into samll-cpas inside the project class*/
+.project p {
+    font -variant: small-caps;
+}
+
 .jumbotron {
 	position: relative;
 	background: none;
