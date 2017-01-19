@@ -23,10 +23,10 @@ body {
 /* style each project */
 .project {
         font-variant: small-caps;
-        margin-left: 1px;
+        margin-left: 20px;
         background-color: #ab1234;
-        padding: 1px;
-        width: 1px;
+        padding: 5px;
+        width: 50px;
 }
 
 /* put paragraph into samll-cpas inside the project class*/
