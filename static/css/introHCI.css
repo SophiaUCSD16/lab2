@@ -16,14 +16,18 @@ body {
      padding: 20px;
 }
 
-/* let all the project has left margin */
+/* style each project */
 .project {
-        margin-left: 10px;
+        font-variant: small-caps;
+        margin-left: 1px;
+        background-color: #ab1234;
+        padding: 1px;
+        width: 1px;
 }
 
 /* put paragraph into samll-cpas inside the project class*/
 .project p {
-    font -variant: small-caps;
+    font-variant: small-caps;
 }
 
 .jumbotron {
